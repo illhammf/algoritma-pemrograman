@@ -31,10 +31,10 @@ Materi di dalam repository disusun berdasarkan pertemuan kuliah dan dilengkapi d
 Spesifikasi
 ```text
 Device name |	PC-ILHAMM
-Processor |	AMD Ryzen 3 3250U with Radeon Graphics (2.60 GHz)
+Processor |	    AMD Ryzen 3 3250U with Radeon Graphics (2.60 GHz)
 Installed RAM |	16,0 GB (13,9 GB usable)
 Graphics card |	AMD Radeon(TM) Graphics (2 GB)
-Storage | 313 GB of 477 GB used
+Storage |       313 GB of 477 GB used
 ```
 
 ---
